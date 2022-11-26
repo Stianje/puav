@@ -10,7 +10,7 @@ the paths of different objects in the frame using Deepsort algorithm.
 # Results
 ![](https://github.com/Stianje/puav/blob/main/SDD_Yolov7__Deepsort.gif)
 ![](https://github.com/Stianje/puav/blob/main/SDD_Yolov7__Deepsort_2.gif)
-![](https://github.com/Stianje/puav/blob/main/heat_map_alpha final.png)
+![](https://github.com/Stianje/puav/blob/main/heat_map_alpha.png)
 
 # Acknowledgements
 https://github.com/WongKinYiu/yolov7<br />

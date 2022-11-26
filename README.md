@@ -2,7 +2,7 @@
 Overhead object detection using YOLOv7 and DeepSORT
 
 # Results
-![]https://github.com/Stianje/puav/blob/main/SDD_Yolov7__Deepsort.gif
+![](https://github.com/Stianje/puav/blob/main/SDD_Yolov7__Deepsort.gif)
 
 # Acknowledgements
 https://github.com/WongKinYiu/yolov7

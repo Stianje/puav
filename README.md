@@ -15,6 +15,9 @@ Coupa2 and Hyang0 scene from SDD Data set<br />
 
 Heatmap generated from Hyang0 run
 ![Hyang0 Heatmap](https://github.com/Stianje/puav/blob/main/heat_map_alpha.png)
+Blue: pedestrian
+Red: biker
+Green: cart
 
 # Intro of folder structure.
 ```

@@ -16,16 +16,11 @@ Coupa2 and Hyang0 scene from SDD Data set<br />
 Heatmap generated from Hyang0 run
 ![Hyang0 Heatmap](https://github.com/Stianje/puav/blob/main/heat_map_alpha.png)
 
-#Intro of folder structure.
+# Intro of folder structure.
 ```
-Firsttest - Is a simple program testing OpenCV on detection of objects.
-
 Project_trainings - Producing the training data (Annotations And Video to frames)
-
 Projectv2 - Main object neural network detector with trakcing, Yolov7 with Implemented Deepsort for tracking
-
 Movemap - Creating of movemap from deepsort tracking
-
 Count_Objects - Counting of different ids given by deepsort from labels file and comparing to dataset value
 ```
 

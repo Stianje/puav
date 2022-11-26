@@ -8,8 +8,11 @@ as a result of jittery object tracking, we decided to rather visualize the data 
 the paths of different objects in the frame using Deepsort algorithm.
 
 # Results
+Coupa2 and Hyang0 scene from SDD Data set
 ![Coupa2 Scene](https://github.com/Stianje/puav/blob/main/SDD_Yolov7__Deepsort.gif)
 ![Hyang0 Scene](https://github.com/Stianje/puav/blob/main/SDD_Yolov7__Deepsort_2.gif)
+
+Heatmap generated from Hyang0 run
 ![Hyang0 Heatmap](https://github.com/Stianje/puav/blob/main/heat_map_alpha.png)
 
 # Acknowledgements

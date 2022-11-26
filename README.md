@@ -10,8 +10,9 @@ the paths of different objects in the frame using Deepsort algorithm.
 # Results
 ![](https://github.com/Stianje/puav/blob/main/SDD_Yolov7__Deepsort.gif)
 ![](https://github.com/Stianje/puav/blob/main/SDD_Yolov7__Deepsort_2.gif)
+![](https://github.com/Stianje/puav/blob/main/heat_map_alpha_final.png)
 
 # Acknowledgements
-https://github.com/WongKinYiu/yolov7
-https://github.com/haroonshakeel/yolov7-object-tracking
+https://github.com/WongKinYiu/yolov7<br />
+https://github.com/haroonshakeel/yolov7-object-tracking<br />
 https://cvgl.stanford.edu/projects/uav_data/

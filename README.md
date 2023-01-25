@@ -1,4 +1,4 @@
-# puav
+# Overhead object detection
 Overhead object detection using YOLOv7 and DeepSORT
 
 The intention of this project is to create an object detection system with YOLOv7 that can identify pedestrians,
